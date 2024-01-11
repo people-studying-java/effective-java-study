@@ -94,7 +94,7 @@
 > > ```java
 > > public class Application {
 > > 
-> >     public static void main(String[] args) {
+> >     public static void main(String[] args) {[생성자에 매개변수가 많다면 빌더를 고려하라.md](..%2F%BE%C6%C0%CC%C5%DB_02%2F%BB%FD%BC%BA%C0%DA%BF%A1%20%B8%C5%B0%B3%BA%AF%BC%F6%B0%A1%20%B8%B9%B4%D9%B8%E9%20%BA%F4%B4%F5%B8%A6%20%B0%ED%B7%C1%C7%CF%B6%F3.md)
 > >         try {
 > >             check();
 > >         } catch (Exception e) {
