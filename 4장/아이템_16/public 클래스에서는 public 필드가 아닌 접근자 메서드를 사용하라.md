@@ -63,7 +63,7 @@
 >   return new Dimension(width, height); // 객체의 불변성을 위해 새로운 인스턴스를 다시 생성함
 > }
 >  
-```
+> ```
 > 
 > ## 결론
 > public 필드를 사용하지 말자.
